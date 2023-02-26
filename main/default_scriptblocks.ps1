@@ -1,3 +1,9 @@
+# app id
+$appName = "Abcx"
+
+# basics
+$programFiles = "C:\Program Files\"
+
 # error warning
 $errorWarning = {
     Write-Host 'Error Warning' -ForegroundColor Red -BackgroundColor DarkBlue
